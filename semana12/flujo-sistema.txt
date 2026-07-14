@@ -1,0 +1,7 @@
+# Flujo-sistema.txt
+
+1. Un ciudadano crea una causa o una petición desde el formulario de la plataforma.
+2. El sistema guarda la información de la causa en la base de datos.
+3. Otras personas pueden ingresar y apoyar la causa si están de acuerdo.
+4. El sistema registra y cuenta automáticamente la cantidad de apoyos recibidos.
+5. Cuando la información está completa, el sistema genera un documento PDF con la petición para que pueda revisarse y presentarse a la entidad correspondiente.

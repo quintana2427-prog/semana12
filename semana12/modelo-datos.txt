@@ -1,0 +1,19 @@
+# Modelo-datos.txt
+
+Entidad: Causa
+
+* id
+* titulo
+* descripcion
+* fecha
+
+Entidad: Apoyo
+
+* id
+* causa_id
+* nombre
+* fecha
+
+Relación:
+
+Una causa puede tener muchos apoyos. Cada apoyo pertenece a una sola causa mediante el campo **causa_id**.

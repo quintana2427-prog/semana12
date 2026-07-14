@@ -1,0 +1,7 @@
+# Automatizacion.txt
+
+Evento: Se registra una nueva causa en la plataforma.
+
+Mensaje: "Se ha registrado una nueva causa en la plataforma. Revísela para conocer más información."
+
+Información que no debe enviarse por seguridad: No se deben enviar cédulas, números de teléfono, direcciones, correos electrónicos, comentarios privados ni otros datos personales de los ciudadanos.

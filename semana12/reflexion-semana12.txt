@@ -1,0 +1,8 @@
+#Reflexion-semana12.txt
+
+Durante este curso aprendí que la tecnología puede ayudar a mejorar la participación ciudadana y el trabajo de las comunidades. 
+También entendí la importancia de organizar la información de forma clara y proteger los datos personales de los usuarios.
+Aprendí a crear aplicaciones básicas con Node.js, utilizar Git y GitHub para controlar versiones y trabajar con bases de datos sencillas.
+Además, conocí herramientas como n8n y Telegram para automatizar procesos y enviar notificaciones. 
+Comprendí que un documento generado por el sistema siempre debe revisarse antes de ser utilizado oficialmente. 
+Este curso me permitió fortalecer mis conocimientos en desarrollo de software y entender cómo la tecnología puede aportar soluciones a las necesidades de la comunidad.
